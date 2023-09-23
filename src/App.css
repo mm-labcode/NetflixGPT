@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  background: #eaeaea;
+  height: 45px;
+  padding: 30px 0;
+}
+
+.container {
+  width: 1370px;
+  margin: 0 auto;
+}
+
+.logo {
+  float: left;
+  padding: 10px 0;
+}
+
+.menu {
+  float: right;
+}
+
+.menu ul li {
+  display: inline-block;
+  padding: 0 10px;
+  margin: 0;
+  list-style: none;
+}
+
+
